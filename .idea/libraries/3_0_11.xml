@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="3.0.11">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring5/3.0.11.RELEASE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring5/3.0.11.RELEASE" recursive="false" />
+  </library>
+</component>
